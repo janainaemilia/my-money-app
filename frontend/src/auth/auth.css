@@ -1,0 +1,27 @@
+.wrapper {
+    background-color: #fff!important;
+}
+
+.login-box-body {
+    background-color: #eee;
+}
+
+.login-box-body form{
+	margin-bottom: -60px;
+	margin-top: -15px;
+}
+
+.login-box button {
+    width: 92%;
+    margin: 0 auto;
+    margin-top: -45px;
+}
+
+.login-box a:hover {
+    cursor: pointer;
+}
+
+.login-box-msg, .register-box-msg {
+    padding: 0 20px 0px 20px;
+    font: 17px 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
